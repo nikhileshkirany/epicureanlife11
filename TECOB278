@@ -1,0 +1,510 @@
+<html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>Epicurean Life</title>
+<link rel="dns-prefetch" href="//s2.wp.com">
+<link rel="dns-prefetch" href="//s1.wp.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Epicurean Life » Feed" href="https://epicureanlife642308758.wordpress.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Epicurean Life » Comments Feed" href="https://epicureanlife642308758.wordpress.com/comments/feed/">
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1516999477h&ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s1.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1516999477h&amp;ver=4.9.5" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="all-css-0-1" href="https://s0.wp.com/_static/??-eJyFUe1uwyAMfKFRlEpdf019FiBe4wYDwrCsb18n2TL1Q+wPso8738nWU1IuhgKhaKoq+XrGwHpKLpJiQg/Xh27nmN/0axlXyy5jKhil+4zex6nFH+IXZGWrtR5EXa4eNjoG52svsAC6NzygDOAdYXimXFgX+R9t/N6Klq/HcVZBScaNauladNOLq7Im/2xi61cR6hDLkm4rWtNczCA4JVNmBkGPBjyQ0FoySu+/qrkcJHnTZo1qbcrArOQlrKTKIEb/xKM5yrqVZfl3yJN0nahTtXKlbP6ueKKP7rDv9t3xeOguN81Y554=?cssminify=yes" type="text/css" media="all">
+<style id="wpcom-admin-bar-inline-css" type="text/css">
+
+			.admin-bar {
+				position: inherit !important;
+				top: auto !important;
+			}
+			.admin-bar .goog-te-banner-frame {
+				top: 32px !important
+			}
+			@media screen and (max-width: 782px) {
+				.admin-bar .goog-te-banner-frame {
+					top: 46px !important;
+				}
+			}
+			@media screen and (max-width: 480px) {
+				.admin-bar .goog-te-banner-frame {
+					position: absolute;
+				}
+			}
+		
+</style>
+<link rel="stylesheet" id="dara-fonts-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C300italic%2C400%2C400italic%2C600%7CYrsa%3A300%2C400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="all-css-2-1" href="https://s2.wp.com/_static/??-eJx9jcEOwiAQRH/IdduaJr0Yv4XSLWKAJbC18e/FeEGN3OZl5mVwj6A5CAVBv0F0m7Eho6FAyZbiTzzqnA9YuXIlTxnjNuOikkIbNGZ5OII9avY/++prt4shyZhZW+XgfVVDSw4s5VYt3gaYVYL70FobYnCslVgOHwCrUza11ESzY1OiwbKqsCUJZ0gUOQmsnPw3v9SLP/djN/XTqRuH2xMrPJVU?cssminify=yes" type="text/css" media="all">
+<link rel="stylesheet" id="print-css-3-1" href="https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&amp;cssminify=yes" type="text/css" media="print">
+<link rel="stylesheet" id="all-css-4-1" href="https://s1.wp.com/_static/??-eJx9TssKwjAQ/CHjEmilHsRv2aYxWdlkQzatv297UBGxp3kwMww8inGSm88N0mwKz4GyAk6JshmxQkJtvq7MyOJrpcnrxzs61QP8mXCNJG8Tb7YXL6LN3BipgkaslMML91oqjpANS5Bv8VNq0af1euwgsIzIW+CaLra3p/PQ2264PwErH2NX?cssminify=yes" type="text/css" media="all">
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJx9kFEKwjAMQC9kVycT9yOeZavZyGyb2qQbenr7MRFHFQIh5JHkRS9BoTc2XYH1lOOeID7WVE280/8A5XCMnUDl0L9hQ17Ai3ZJBZtG9Kw59WwiBkHK1UDW0rLF8+hALA6YuxEKXUc9WlCJIWbAS75qoAL3bYB+Rigt24iChM7cVATGJ5S8OXwUfz9spS7uXDft6dDWx2Y/vQBJS4U5"></script><style type="text/css"></style>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://epicureanlife642308758.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress.com">
+<link rel="canonical" href="https://epicureanlife642308758.wordpress.com/">
+<link rel="shortlink" href="https://wp.me/P9O1Oq-4">
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F&amp;for=wpcom-auto-discovery"><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F&amp;for=wpcom-auto-discovery">
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Epicurean Life">
+<meta property="og:url" content="https://epicureanlife642308758.wordpress.com/">
+<meta property="og:site_name" content="Epicurean Life">
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:site" content="@wordpressdotcom">
+<meta name="twitter:text:title" content="Home">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Visit the post for more.">
+<meta property="fb:app_id" content="249643311490">
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom">
+<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48">
+<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48">
+<link rel="apple-touch-icon-precomposed" href="https://s2.wp.com/i/webclip.png">
+<link rel="search" type="application/opensearchdescription+xml" href="https://epicureanlife642308758.wordpress.com/osd.xml" title="Epicurean Life">
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com">
+<meta name="application-name" content="Epicurean Life"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Author posts, manage comments, and manage Epicurean Life."><meta name="msapplication-task" content="name=Edit page;action-uri=https://wordpress.com/page/epicureanlife642308758.wordpress.com/4;icon-uri=https://s1.wp.com/i/icons/page.ico"><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/epicureanlife642308758.wordpress.com;icon-uri=https://s2.wp.com/i/icons/post.ico"><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://epicureanlife642308758.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s2.wp.com/i/icons/comment.ico"><meta name="msapplication-task" content="name=Upload new media;action-uri=https://epicureanlife642308758.wordpress.com/wp-admin/media-new.php;icon-uri=https://s2.wp.com/i/icons/media.ico"><meta name="msapplication-task" content="name=Blog stats;action-uri=https://epicureanlife642308758.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s1.wp.com/i/icons/stats.ico"><meta name="title" content="Home | Epicurean Life on WordPress.com">
+<meta name="description" content="Welcome to my site!">
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+<link rel="stylesheet" type="text/css" id="gravatar-card-css" href="https://0.gravatar.com/css/hovercard.css?ver=201814y"><link rel="stylesheet" type="text/css" id="gravatar-card-services-css" href="https://0.gravatar.com/css/services.css?ver=201814y"></head>
+
+<body class="home page-template-default page page-id-4 logged-in admin-bar no-customize-support wp-custom-logo mp6 customizer-styles-applied not-multi-author display-header-text comments-closed highlander-enabled highlander-light">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		
+				<div class="site-branding">
+			<a href="https://epicureanlife642308758.wordpress.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="720" height="400" src="https://epicureanlife642308758.files.wordpress.com/2018/04/logo3.png" class="custom-logo" alt="Epicurean Life" itemprop="logo" srcset="https://epicureanlife642308758.files.wordpress.com/2018/04/logo3.png 720w, https://epicureanlife642308758.files.wordpress.com/2018/04/logo3.png?w=150&amp;h=83 150w, https://epicureanlife642308758.files.wordpress.com/2018/04/logo3.png?w=300&amp;h=167 300w" sizes="(max-width: 720px) 100vw, 720px" data-attachment-id="15" data-permalink="https://epicureanlife642308758.wordpress.com/placeholder-image-3/" data-orig-file="https://epicureanlife642308758.files.wordpress.com/2018/04/logo3.png" data-orig-size="720,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Placeholder Image" data-image-description="" data-medium-file="https://epicureanlife642308758.files.wordpress.com/2018/04/logo3.png?w=300" data-large-file="https://epicureanlife642308758.files.wordpress.com/2018/04/logo3.png?w=720"></a>							<p class="site-title"><a href="https://epicureanlife642308758.wordpress.com/" rel="home">Epicurean Life</a></p>
+			
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">Menu</button>
+	<div class="menu-primary-container"><ul id="top-menu" class="menu nav-menu" aria-expanded="false"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-11"><a href="https://epicureanlife642308758.wordpress.com/">Home</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="https://epicureanlife642308758.wordpress.com/contact/">Contact</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="https://epicureanlife642308758.wordpress.com/blog/">Blog</a></li>
+</ul></div>	</nav>
+
+	</header>
+
+	
+<div id="featured-content" class="flexslider hero">
+	<div class="flex-viewport-wrapper hero-content" style="height: 388px;">
+		<div class="featured-posts slides" id="featured-slides">
+						<div class="hero-content-wrapper" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+					<a href="https://epicureanlife642308758.wordpress.com/2018/04/05/the-journey-begins/" title="The Journey Begins">
+													<img width="1180" height="600" src="https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=1180&amp;h=600&amp;crop=1" class="attachment-dara-hero-thumbnail size-dara-hero-thumbnail wp-post-image" alt="" srcset="https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=1180&amp;h=600&amp;crop=1 1180w, https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=150&amp;h=76&amp;crop=1 150w, https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=300&amp;h=153&amp;crop=1 300w, https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=768&amp;h=391&amp;crop=1 768w, https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=1024&amp;h=521&amp;crop=1 1024w" sizes="(max-width: 1180px) 100vw, 1180px" data-attachment-id="14" data-permalink="https://epicureanlife642308758.wordpress.com/2018/04/05/the-journey-begins/placeholder-image-2/" data-orig-file="https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg" data-orig-size="1600,960" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Placeholder Image" data-image-description="" data-medium-file="https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=300" data-large-file="https://epicureanlife642308758.files.wordpress.com/2018/04/pexels-photo-57690.jpg?w=1024" draggable="false">											</a>
+					<div class="featured-post">
+																			<a href="https://epicureanlife642308758.wordpress.com/2018/04/05/the-journey-begins/"><h2 class="entry-title">The Journey Begins</h2></a>
+														<div class="entry-meta">
+			<span class="posted-on"><a href="https://epicureanlife642308758.wordpress.com/2018/04/05/the-journey-begins/" rel="bookmark"><time class="entry-date published" datetime="2018-04-05T09:37:56+00:00">April 5, 2018</time><time class="updated" datetime="2018-04-05T09:42:57+00:00">April 5, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://epicureanlife642308758.wordpress.com/author/epicureanlife642308758/">epicureanlife642308758</a></span></span><span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/post/epicureanlife642308758.wordpress.com/3">Edit <span class="screen-reader-text">"The Journey Begins"</span></a></span>		</div><!-- .entry-meta -->					</div><!-- .featured-post -->
+				</div>
+				</div><!-- .slides -->
+	</div><!-- .hero-content -->
+</div><!-- .hero -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area front-page-content-area">
+					
+<article id="post-4" class="post-4 page type-page status-publish hentry without-featured-image">
+	<header class="entry-header">
+		<h1 class="entry-title">Home</h1>	</header>
+		<div class="entry-content">
+			<p>Welcome to my site!</p>
+		</div>
+		<footer class="entry-footer">
+			<span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/epicureanlife642308758.wordpress.com/4">Edit <span class="screen-reader-text">"Home"</span></a></span>		</footer>
+</article><!-- #post-## -->
+
+						</div><!-- #primary -->
+
+	
+	<div id="quaternary" class="featured-page-area">
+		<div class="featured-page-wrapper clear">
+
+																								
+		</div><!-- .featured-page-wrapper -->
+	</div><!-- #quaternary -->
+
+
+	
+	
+
+	</div>
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+				<div class="site-info">
+	<a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com.</a>
+	
+	</div><!-- .site-info -->	</footer>
+</div>
+<!--  -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Unfollow" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Following" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Follow" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Following" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in <a target=\"_blank\" href=\"http:\/\/wordpress.com\/\">your reader<\/a>. You can manage email alerts from your <a target=\"_blank\" href=\"http:\/\/wordpress.com\/following\/edit\/\">subscriptions page<\/a>." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/epicureanlife642308758.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 144910394				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201814y"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":"7d3f580d1ace633c9e80bd4c92f0b15a"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h"></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<div id="report-form-window" style="display:none;"></div><script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s2.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpNotesArgs = {"cacheBuster":"2.1.8-0-gb8bee37-dirty","iframeUrl":"https:\/\/widgets.wp.com\/notifications\/","iframeAppend":"2","iframeScroll":"no","wide":"1","beta":""};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"4","current_url":"https:\/\/epicureanlife642308758.wordpress.com","report_this_content":"Report this content"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var actionbardata = {"siteID":"144910394","siteName":"Epicurean Life","siteURL":"http:\/\/epicureanlife642308758.wordpress.com","icon":"<img alt='' src='https:\/\/s2.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/dara","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/epicureanlife642308758.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F","themeURL":"https:\/\/wordpress.com\/theme\/dara\/","xhrURL":"https:\/\/epicureanlife642308758.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"0a8636e3ec","isSingular":"1","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"c6848a25f6\" \/>","referer":"https:\/\/epicureanlife642308758.wordpress.com\/","canFollow":"1","feedID":"81200186","statusMessage":"","customizeLink":"https:\/\/epicureanlife642308758.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F","postID":"4","shortlink":"https:\/\/wp.me\/P9O1Oq-4","canEditPost":"1","editLink":"https:\/\/wordpress.com\/page\/epicureanlife642308758.wordpress.com\/4","statsLink":"https:\/\/wordpress.com\/stats\/post\/4\/epicureanlife642308758.wordpress.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get help setting up your theme","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/epicureanlife642308758.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJyVku1WgzAMhm/IrrJz5j+P11JKGIF+2bRsu3tTdTjHh+4PlOR9QpO88hSE9i6BS7In2cCIGsJ519OT5BQ6bXIDVHKpQz3U/jwdrqIrb7MIJh/RkTQ4MPSeIUOnXGMgLlVUjUUnahV3/N6oNuk4r70VP9w6wzrLIfF1k75cqZZ0wgCPQL8C92DqwLIs5Fo2KiqpiCB9Yk6NeFQJ/ayrdabnacXLrjVwJoMNzJpbRx/WDxi4JTeI1utMosXFhWfHVUn7CLf7uVXUqhjBwdL+OG0zJaW7rYk7n+D7KcqwvRPj/k/9ZIBtcfIkIgQfEzca7f33vxxnFSWI5Vd+hBixdD7FHqyQIs9rZqNbSBfPFGg6sfrNvlaHffV8qPYvVf8BbSVhFw=="></script><div id="actionbar" class="actnbr-pub-dara actnbr-has-customize actnbr-has-edit"><ul><li class="actnbr-btn actnbr-customize"><a href="https://epicureanlife642308758.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F"><svg class="gridicon gridicon__customize" height="20px" width="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z" data-reactid=".2.1.1:0.1b.0"></path></g></svg><span>Customize<span></span></span></a></li><li class="actnbr-btn actnbr-edit"><a href="https://wordpress.com/page/epicureanlife642308758.wordpress.com/4"><svg class="gridicon gridicon__pencil" height="20px" width="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M13 6l5 5-9.507 9.507c-.686-.686-.69-1.794-.012-2.485l-.002-.003c-.69.676-1.8.673-2.485-.013-.677-.677-.686-1.762-.036-2.455l-.008-.008c-.694.65-1.78.64-2.456-.036L13 6zm7.586-.414l-2.172-2.172c-.78-.78-2.047-.78-2.828 0L14 5l5 5 1.586-1.586c.78-.78.78-2.047 0-2.828zM3 18v3h3c0-1.657-1.343-3-3-3z"></path></g></svg><span>Edit</span></a></li><li class="actnbr-btn actnbr-stats"><a href="https://wordpress.com/stats/post/4/epicureanlife642308758.wordpress.com"><svg class="gridicon gridicon__stats-alt" height="20px" width="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M21,21H3v-2h18V21z M8,10H4v7h4V10z M14,3h-4v14h4V3z M20,6h-4v11h4V6z"></path></g></svg><span>Stats</span></a></li><li class="actnbr-ellipsis actnbr-hidden"> 			  <svg class="gridicon gridicon__ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><circle cx="5" cy="12" r="2"></circle><circle cx="19" cy="12" r="2"></circle><circle cx="12" cy="12" r="2"></circle></g></svg> 			  <div class="actnbr-popover tip tip-top-left actnbr-more"> 			  	<div class="tip-arrow"></div> 			  	<div class="tip-inner"> 				  <ul> 				    <li class="actnbr-sitename"><a href="http://epicureanlife642308758.wordpress.com"><img alt="" src="https://s2.wp.com/i/logo/wpcom-gray-white.png" class="avatar avatar-50" height="50" width="50"> Epicurean Life</a></li> 				   	<li class="actnbr-folded-customize"><a href="https://epicureanlife642308758.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F"><svg class="gridicon gridicon__customize" height="20px" width="20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z" data-reactid=".2.1.1:0.1b.0"></path></g></svg><span>Customize<span></span></span></a></li> 				    <li class="actnbr-folded-follow"><a class="actnbr-action actnbr-actn-following" href=""><svg class="gridicon gridicon__following" height="24px" width="24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"></path></g></svg><span>Following</span></a></li> 					 				     				    <li class="actnbr-theme"><a href="https://wordpress.com/theme/dara/">Get help setting up your theme</a></li> 				    <li class="actnbr-shortlink"><a href="https://wp.me/P9O1Oq-4">Copy shortlink</a></li> 				     				    <li class="actnbr-reader"><a href="https://wordpress.com/read/blogs/144910394/posts/4">View post in Reader</a></li> 				    <li class="actnbr-follows"><a href="https://wordpress.com/following/edit">Manage subscriptions</a></li> 				     				    <li class="actnbr-fold"><a href="">Collapse this bar</a></li> 			      </ul> 			    </div> 		      </div> 		    </li> 	      </ul></div>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async="" defer=""></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 137352113, 'epicureanlife642308758']);
+_tkq.push(['storeContext', {'blog_id':'144910394','blog_tz':'0','user_lang':'en','blog_lang':'en'}]);
+_stq.push(['view', {'blog':'144910394','v':'wpcom','tz':'0','user':'1','user_id':'137352113','post':'4','subd':'epicureanlife642308758'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TdVc3aWJOWS5HUTZSRHNZdTIzLmN+VUZ8MnpYNlVPT3FVV3otTDNqVE51UlpOUEp6PUlVWXpxUGZXLUZQSFlfOUpMWy98SHRSeU5lVS5zcHFwPWNZQ0p1YnJWd3hXfncvWU0uR2pHNnN1Y050bCVucDBOWlRDJkFUWFVpTiZEST1yTlItODk4K2ZxMFRBZTcsLlBFVW5bW3lTYXVtJVkmP3NGfDhWdlFlWy9iLnZIZmprPUpsZFN2UnJGRkpuL0ZjZ2JWei5Cd2MzYzI='}]);
+	</script>
+<noscript>&lt;img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /&gt;</noscript>
+		<div id="wpadminbar" class="ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="menupop my-sites mb-trackable"><a class="ab-item" aria-haspopup="true" href="https://wordpress.com/stats/epicureanlife642308758.wordpress.com">My Site</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-blog-info" class="current-site"><a class="ab-item" href="https://epicureanlife642308758.wordpress.com/"><div class="ab-site-icon"></div><span class="ab-site-title">Epicurean Life</span><span class="ab-site-description">epicureanlife642308758.wordpress.com</span></a>		</li>
+		<li id="wp-admin-bar-blog-stats" class="mb-icon"><a class="ab-item" href="https://wordpress.com/stats/epicureanlife642308758.wordpress.com">Stats <img style="width: 95px; margin: 0; float: right;" src="https://epicureanlife642308758.wordpress.com/wp-includes/charts/admin-bar-hours-scale-2x.php?masterbar=1" alt="Stats" title="Showing site views per hour for the last 48 hours. Click for full Site Stats."></a>		</li>
+		<li id="wp-admin-bar-plan" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/plans/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-plan">Plan</a><a href="https://wordpress.com/plans/epicureanlife642308758.wordpress.com" class="ab-secondary" id="wp-admin-bar-plan-badge">Free</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-publish" class="ab-submenu">
+			
+		<li id="wp-admin-bar-publish-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item">Manage</div>		</li>
+		<li id="wp-admin-bar-new-page" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/pages/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-page">Site Pages</a><a href="https://wordpress.com/page/epicureanlife642308758.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-page-badge">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-post" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/posts/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-post">Blog Posts</a><a href="https://wordpress.com/post/epicureanlife642308758.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-post-badge">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-attachment" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/media/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-attachment">Media</a><a href="https://wordpress.com/media/epicureanlife642308758.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-attachment-badge">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-jetpack-testimonial" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/types/jetpack-testimonial/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-jetpack-testimonial">Testimonials</a><a href="https://wordpress.com/edit/jetpack-testimonial/epicureanlife642308758.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-jetpack-testimonial">Add</a></div>		</li>
+		<li id="wp-admin-bar-comments" class="mb-icon"><a class="ab-item" href="https://wordpress.com/comments/epicureanlife642308758.wordpress.com">Comments</a>		</li>		</ul>
+			<ul id="wp-admin-bar-look-and-feel" class="ab-submenu">
+			
+		<li id="wp-admin-bar-look-and-feel-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item">Personalize</div>		</li>
+		<li id="wp-admin-bar-themes" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/themes/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-themes">Themes</a><a href="https://epicureanlife642308758.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fepicureanlife642308758.wordpress.com%2F" class="ab-secondary" id="wp-admin-bar-cmz">Customize</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-configuration" class="ab-submenu">
+			
+		<li id="wp-admin-bar-configuration-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item">Configure</div>		</li>
+		<li id="wp-admin-bar-sharing" class="mb-icon"><a class="ab-item" href="https://wordpress.com/sharing/epicureanlife642308758.wordpress.com">Sharing</a>		</li>
+		<li id="wp-admin-bar-users-toolbar" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/people/team/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-people">People</a><a href="https://wordpress.com/people/new/epicureanlife642308758.wordpress.com" class="ab-secondary" id="wp-admin-bar-people-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-plugins"><a class="ab-item" href="https://wordpress.com/plugins/wpcom-masterbar-redirect/epicureanlife642308758.wordpress.com">Plugins</a>		</li>
+		<li id="wp-admin-bar-domains" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/domains/epicureanlife642308758.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-domains">Domains</a><a href="https://wordpress.com/domains/add/epicureanlife642308758.wordpress.com" class="ab-secondary" id="wp-admin-bar-domains-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-blog-settings" class="mb-icon"><a class="ab-item" href="https://wordpress.com/settings/general/epicureanlife642308758.wordpress.com">Settings</a>		</li>
+		<li id="wp-admin-bar-new-site"><a class="ab-item" href="https://wordpress.com/start?ref=admin-bar-logged-in">+ Add New WordPress</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item" href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="menupop mb-trackable"><a class="ab-item" aria-haspopup="true" href="https://wordpress.com/">Reader</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-newdash-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-streams-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item">Streams</div>		</li>
+		<li id="wp-admin-bar-following" class="inline-action">		<div class="ab-item ab-empty-item"><a href="https://wordpress.com/" class="ab-item ab-primary mb-icon" id="wp-admin-bar-followed-sites">Followed Sites</a><a href="https://wordpress.com/following/edit" class="ab-secondary" id="wp-admin-bar-reader-followed-sites-manage">Manage</a></div>		</li>
+		<li id="wp-admin-bar-conversations" class="mb-icon"><a class="ab-item" href="http://wordpress.com/read/conversations">Conversations</a>		</li>
+		<li id="wp-admin-bar-discover-discover" class="mb-icon-spacer"><a class="ab-item" href="https://wordpress.com/discover">Discover</a>		</li>
+		<li id="wp-admin-bar-discover-search" class="mb-icon-spacer"><a class="ab-item" href="https://wordpress.com/read/search">Search</a>		</li>
+		<li id="wp-admin-bar-my-activity-my-likes" class="mb-icon-spacer"><a class="ab-item" href="https://wordpress.com/activities/likes">My Likes</a>		</li>		</ul>
+	</div>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read"></span><span class="noticon noticon-bell"></span><span class="ab-text">Notifications</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr" class="wide"><iframe style="" id="wpnt-notes-iframe2" frameborder="0" allowtransparency="true" scrolling="no" src="https://widgets.wp.com/notifications/?v=2.1.8-0-gb8bee37-dirty&amp;locale=en#https://epicureanlife642308758.wordpress.com/" class="wide"></iframe></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar mb-trackable no-grav ab-hover"><a class="ab-item" aria-haspopup="true" href="https://wordpress.com/me/"><img alt="" src="https://1.gravatar.com/avatar/7d3f580d1ace633c9e80bd4c92f0b15a?s=32&amp;d=mm&amp;r=G" class="avatar avatar-32" height="32" width="32"><span class="ab-text">Me</span></a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+			
+		<li id="wp-admin-bar-user-info" class="user-info user-info-item">		<div class="ab-item ab-empty-item" tabindex="-1"><img alt="" src="https://1.gravatar.com/avatar/7d3f580d1ace633c9e80bd4c92f0b15a?s=128&amp;d=mm&amp;r=G" class="avatar avatar-128" height="128" width="128"><span class="display-name">epicureanlife642308758</span><a class="username" href="http://gravatar.com/epicureanlife642308758">@epicureanlife642308758</a><form action="https://epicureanlife642308758.wordpress.com/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fwordpress.com%2F%3Fapppromo&amp;_wpnonce=220e8e69ef" method="post"><button class="ab-sign-out" type="submit">Sign Out</button></form></div>		</li>
+		<li id="wp-admin-bar-profile-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item">Profile</div>		</li>
+		<li id="wp-admin-bar-my-profile" class="mb-icon"><a class="ab-item" href="https://wordpress.com/me">My Profile</a>		</li>
+		<li id="wp-admin-bar-account-settings" class="mb-icon"><a class="ab-item" href="https://wordpress.com/me/account">Account Settings</a>		</li>
+		<li id="wp-admin-bar-billing" class="mb-icon"><a class="ab-item" href="https://wordpress.com/me/purchases">Manage Purchases</a>		</li>
+		<li id="wp-admin-bar-security" class="mb-icon"><a class="ab-item" href="https://wordpress.com/me/security">Security</a>		</li>
+		<li id="wp-admin-bar-notifications" class="mb-icon mb-trackable"><a class="ab-item" href="https://wordpress.com/me/notifications">Notifications</a>		</li>
+		<li id="wp-admin-bar-special-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item">Special</div>		</li>
+		<li id="wp-admin-bar-get-apps" class="mb-icon"><a class="ab-item" href="https://wordpress.com/me/get-apps">Get Apps</a>		</li>
+		<li id="wp-admin-bar-next-steps" class="mb-icon"><a class="ab-item" href="https://wordpress.com/me/next">Next Steps</a>		</li>
+		<li id="wp-admin-bar-help" class="mb-icon"><a class="ab-item" href="https://wordpress.com/help">Help</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-ab-new-post" class="mb-trackable"><a class="ab-item" href="https://wordpress.com/post/epicureanlife642308758.wordpress.com"><span>Write</span></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://epicureanlife642308758.wordpress.com/wp-login.php?action=logout&amp;_wpnonce=220e8e69ef">Log Out</a>
+					</div>
+
+	
+<img src="https://pixel.wp.com/g.gif?blog=144910394&amp;v=wpcom&amp;tz=0&amp;user=1&amp;user_id=137352113&amp;post=4&amp;subd=epicureanlife642308758&amp;host=epicureanlife642308758.wordpress.com&amp;ref=&amp;rand=0.5713198811925564" alt=":)" id="wpstats"><script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+	<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+
+
+<div class="comment-likes-overlay" style="display: none;"></div></body></html>
